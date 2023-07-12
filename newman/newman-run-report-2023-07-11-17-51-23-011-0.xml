@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Simple Book API" tests="9" time="4.305">
+  <testsuite name="Api status" id="7958abc9-5f26-46fc-801e-a33f9cb5c884" timestamp="2023-07-11T17:51:17.731Z" tests="0" failures="0" errors="0" time="1.391"/>
+  <testsuite name="List of Books" id="dd1cd89c-ae53-405b-be8c-e9191d57ae24" timestamp="2023-07-11T17:51:17.731Z" tests="0" failures="0" errors="0" time="0.443"/>
+  <testsuite name="Get single book" id="4db5f6ec-ef38-4521-b42b-f5415333fb5a" timestamp="2023-07-11T17:51:17.731Z" tests="0" failures="0" errors="0" time="0.334"/>
+  <testsuite name="Order Book" id="db7a0fcd-361e-4a8b-b37e-7572cf488912" timestamp="2023-07-11T17:51:17.731Z" tests="0" failures="0" errors="0" time="0.372"/>
+  <testsuite name="Get all orders" id="faee0c4d-6e11-4b28-9d18-e87795f4a3e3" timestamp="2023-07-11T17:51:17.731Z" tests="0" failures="0" errors="0" time="0.336"/>
+  <testsuite name="Get an order" id="561b4786-e3e0-4d1e-9748-cc5ce3214836" timestamp="2023-07-11T17:51:17.731Z" tests="0" failures="0" errors="0" time="0.348"/>
+  <testsuite name="Delete an order" id="5e22f961-82a1-4824-b6f7-6355b277fb28" timestamp="2023-07-11T17:51:17.731Z" tests="0" failures="0" errors="0" time="0.331"/>
+  <testsuite name="Update an order" id="e7d45a19-3d9e-4d3f-99f7-ae53a2befc68" timestamp="2023-07-11T17:51:17.731Z" tests="0" failures="0" errors="0" time="0.335"/>
+  <testsuite name="Register Api Client" id="04e73081-1710-46b4-a6a0-9f0e6822df44" timestamp="2023-07-11T17:51:17.731Z" tests="0" failures="0" errors="0" time="0.415"/>
+</testsuites>

@@ -1,0 +1,21 @@
+{
+	"id": "779d12fa-c507-4c82-a737-8cba51375226",
+	"name": "simple books",
+	"values": [
+		{
+			"key": "accesstoken",
+			"value": "---",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "BaseURL",
+			"value": "https://simple-books-api.glitch.me",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-07-11T17:32:56.112Z",
+	"_postman_exported_using": "Postman/10.15.8"
+}
